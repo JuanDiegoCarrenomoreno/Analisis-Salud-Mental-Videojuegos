@@ -1,0 +1,429 @@
+ID,Edad,Genero Jugador,Horas Jugadas Diarias,Genero Juego,Juego Principal,Plataforma Jugada,Horas De Sueno,Rendimiento Academico,Notas,Estado De Animo,Frecuencia A Cambios De Humor,Sindromes De Abstinencia,Perdida De Otros Intereses,Continuo A Pesar De Los Problemas,Fatiga Visual,Dolor De Espalda O Cuello,Horas De Ejercicio Semanalmente,Horas De Encuentros Sociales Semanalmente,Anos Jugando,Riesgo De Adiccion A Los Juegos,Calidad Sueno
+GD0002,21,Masculino,3.0,MOBA,Dota 2,PC,7.2,Medio,3.75,Irritable,Often,False,False,False,False,False,8.5,10.7,1,Low,Buena
+GD0004,20,Femenino,7.2,RPG,Skyrim,Multi-platforma,5.1,Insuficiente,1.62,Withdrawn,Daily,True,True,False,True,True,5.2,9.1,7,High,Baja
+GD0006,21,Masculino,2.1,Juegos De Celular,Clash of Clans,PC,7.5,Medio,3.81,Normal,Never,False,False,False,False,False,10.8,9.6,4,Low,Buena
+GD0007,21,Masculino,2.7,FPS,Call of Duty,Multi-platforma,7.2,Insuficiente,1.82,Euphoric,Rarely,False,False,False,False,False,10.0,10.1,3,Low,Buena
+GD0014,22,Masculino,5.1,RPG,Skyrim,Celular,5.3,Medio,3.25,Anxious,Rarely,False,False,False,True,False,7.6,6.3,5,Low,Baja
+GD0015,21,Masculino,5.8,RPG,Elden Ring,Consola,5.2,Bajo,2.54,Restless,Rarely,False,False,False,False,True,8.2,9.0,2,Low,Baja
+GD0017,19,Masculino,3.0,Juegos De Celular,Genshin Impact,Consola,7.4,Insuficiente,1.64,Normal,Never,False,False,False,False,False,6.7,13.1,9,Low,Buena
+GD0018,22,Femenino,11.3,MOBA,League of Legends,Multi-platforma,4.6,Insuficiente,1.89,Anxious,Often,True,False,False,True,True,4.9,0.9,10,High,Baja
+GD0019,20,Masculino,8.4,FPS,Call of Duty,Celular,3.2,Bajo,2.76,Angry,Sometimes,True,True,True,True,False,7.1,8.1,6,Severe,Muy Baja
+GD0020,20,Masculino,9.4,Battle Royale,Warzone,Consola,5.5,Insuficiente,2.14,Anxious,Rarely,True,True,False,False,True,4.8,2.2,1,Severe,Intermedia
+GD0021,22,Masculino,6.5,RPG,Cyberpunk 2077,Consola,4.4,Bajo,2.91,Normal,Never,False,True,False,True,False,6.4,9.1,12,Moderate,Baja
+GD0024,19,Femenino,8.9,Battle Royale,PUBG,Consola,5.7,Bajo,2.63,Irritable,Rarely,True,False,False,True,True,5.7,5.2,6,High,Intermedia
+GD0025,22,Masculino,5.2,Juegos De Celular,Candy Crush,PC,7.0,Insuficiente,1.94,Depressed,Rarely,False,False,False,False,False,6.2,11.2,11,Low,Buena
+GD0026,22,Masculino,3.4,Juegos De Celular,Candy Crush,Consola,8.7,Medio,3.41,Normal,Sometimes,False,False,False,False,False,7.8,10.3,9,Low,Muy buena
+GD0029,21,Masculino,1.2,MMO,World of Warcraft,Celular,7.1,Insuficiente,2.31,Depressed,Sometimes,False,False,False,False,False,8.6,16.7,6,Low,Buena
+GD0030,19,Femenino,4.7,RPG,Skyrim,Multi-platforma,5.8,Insuficiente,1.62,Irritable,Sometimes,False,False,False,True,False,5.6,10.0,8,Low,Intermedia
+GD0031,20,Masculino,1.0,RPG,Cyberpunk 2077,Celular,7.3,Insuficiente,1.21,Normal,Never,False,False,False,False,False,8.9,14.4,6,Low,Buena
+GD0033,20,Masculino,5.9,MMO,Final Fantasy XIV,Consola,6.8,Medio,3.39,Anxious,Never,False,False,False,False,True,7.5,7.1,7,Low,Buena
+GD0034,20,Masculino,5.2,Battle Royale,PUBG,Consola,5.6,Medio,3.03,Angry,Rarely,False,False,False,True,False,7.9,8.7,7,Low,Intermedia
+GD0036,22,Femenino,4.6,Juegos De Celular,PUBG Mobile,PC,5.4,Insuficiente,1.15,Angry,Sometimes,False,False,False,True,False,8.4,8.3,12,Low,Baja
+GD0037,20,Masculino,2.8,MOBA,Mobile Legends,Celular,8.3,Medio,3.54,Excited,Never,False,False,False,False,False,8.3,14.3,9,Low,Muy buena
+GD0038,20,Masculino,7.6,Estrategia,StarCraft II,Celular,4.2,Bajo,2.7,Restless,Never,False,True,False,True,True,5.2,2.6,2,Moderate,Baja
+GD0040,20,Masculino,4.4,RPG,Elden Ring,Celular,6.4,Insuficiente,1.38,Restless,Rarely,False,False,False,False,False,9.1,8.5,2,Low,Intermedia
+GD0043,20,Masculino,4.2,Estrategia,StarCraft II,Celular,5.4,Insuficiente,2.21,Normal,Often,False,False,False,False,False,7.1,8.8,1,Low,Baja
+GD0044,20,Masculino,7.9,Battle Royale,PUBG,Consola,3.5,Insuficiente,2.25,Angry,Rarely,True,False,True,False,True,7.0,4.2,4,High,Muy Baja
+GD0047,20,Masculino,3.4,MMO,Final Fantasy XIV,PC,7.1,Insuficiente,1.19,Normal,Sometimes,False,False,False,False,False,7.8,12.9,8,Low,Buena
+GD0052,20,Masculino,3.5,RPG,Skyrim,Celular,7.8,Insuficiente,1.39,Normal,Rarely,False,False,False,False,False,9.8,10.7,4,Low,Buena
+GD0053,20,Masculino,11.4,FPS,Call of Duty,Consola,4.3,Insuficiente,2.02,Anxious,Never,True,False,False,True,True,5.0,0.2,9,High,Baja
+GD0054,20,Femenino,0.5,Juegos De Celular,Genshin Impact,Multi-platforma,7.2,Medio,3.39,Depressed,Rarely,False,False,False,False,False,10.0,13.9,5,Low,Buena
+GD0055,22,Femenino,5.8,FPS,CS:GO,PC,6.7,Insuficiente,2.3,Euphoric,Sometimes,False,False,False,True,False,6.4,10.5,5,Low,Buena
+GD0056,19,Masculino,1.7,MOBA,Mobile Legends,Celular,8.1,Insuficiente,1.41,Normal,Daily,False,False,False,False,False,9.3,12.6,5,Low,Muy buena
+GD0061,22,Femenino,5.6,FPS,Call of Duty,Consola,5.3,Insuficiente,2.08,Normal,Sometimes,False,True,False,False,True,7.7,9.7,10,Moderate,Baja
+GD0064,19,Femenino,6.6,FPS,Valorant,Celular,3.3,Medio,3.09,Irritable,Sometimes,True,True,False,True,True,8.0,9.5,9,High,Muy Baja
+GD0068,22,Masculino,7.0,MMO,Elder Scrolls Online,Multi-platforma,4.0,Medio,3.54,Irritable,Daily,True,False,False,True,True,5.8,5.3,4,Moderate,Baja
+GD0069,20,Femenino,6.2,Juegos De Celular,Genshin Impact,Consola,5.8,Medio,3.51,Irritable,Rarely,False,True,False,True,True,6.7,9.6,8,Moderate,Intermedia
+GD0074,20,Masculino,5.0,MMO,Final Fantasy XIV,Consola,6.9,Insuficiente,1.55,Normal,Never,False,False,False,False,False,7.7,6.8,8,Low,Buena
+GD0075,19,Masculino,3.5,Battle Royale,PUBG,Multi-platforma,8.0,Insuficiente,1.87,Excited,Rarely,False,False,False,False,False,6.7,11.4,3,Low,Muy buena
+GD0079,19,Otro,8.3,MOBA,League of Legends,PC,5.5,Insuficiente,1.17,Irritable,Never,True,False,False,False,False,4.0,3.9,6,Moderate,Intermedia
+GD0081,22,Femenino,7.2,Juegos De Celular,Genshin Impact,Multi-platforma,3.6,Insuficiente,1.98,Irritable,Daily,True,False,False,True,False,6.5,8.0,11,Moderate,Muy Baja
+GD0084,20,Masculino,6.4,RPG,Elden Ring,Multi-platforma,6.8,Bajo,2.95,Normal,Never,False,True,False,False,True,7.6,7.5,8,Moderate,Buena
+GD0086,22,Masculino,3.0,Battle Royale,Warzone,Celular,8.8,Insuficiente,2.4,Normal,Rarely,False,False,False,False,False,7.1,8.5,11,Low,Muy buena
+GD0090,22,Femenino,8.1,Juegos De Celular,Candy Crush,Celular,3.1,Medio,3.21,Anxious,Sometimes,False,True,False,True,False,6.8,5.1,1,Moderate,Muy Baja
+GD0091,20,Masculino,10.3,MMO,World of Warcraft,PC,5.8,Insuficiente,1.5,Angry,Sometimes,False,False,False,False,True,3.6,1.6,4,Moderate,Intermedia
+GD0094,21,Femenino,4.9,Estrategia,StarCraft II,Celular,6.1,Medio,3.53,Withdrawn,Rarely,False,False,False,True,False,9.1,7.6,8,Low,Intermedia
+GD0095,22,Masculino,1.7,RPG,Skyrim,Consola,7.3,Insuficiente,1.41,Normal,Never,False,False,False,False,False,10.8,14.1,5,Low,Buena
+GD0096,19,Masculino,7.0,Juegos De Celular,Candy Crush,Celular,4.9,Medio,3.92,Restless,Daily,True,True,False,True,True,4.6,8.8,1,High,Baja
+GD0097,19,Masculino,3.2,MOBA,Mobile Legends,Celular,7.3,Insuficiente,2.05,Restless,Rarely,False,False,False,False,False,9.1,14.4,1,Low,Buena
+GD0101,21,Masculino,5.4,FPS,Valorant,PC,6.6,Medio,3.51,Normal,Rarely,False,False,False,True,False,5.7,11.2,11,Low,Buena
+GD0102,19,Masculino,6.1,RPG,Elden Ring,Consola,5.5,Medio,3.22,Normal,Rarely,False,False,False,True,False,8.1,7.9,3,Low,Intermedia
+GD0103,19,Femenino,7.1,MMO,Elder Scrolls Online,PC,5.0,Bajo,2.66,Irritable,Sometimes,True,True,False,False,True,5.3,6.0,8,High,Baja
+GD0104,19,Femenino,8.0,RPG,Elden Ring,PC,3.4,Bajo,2.53,Restless,Often,True,True,False,True,True,6.6,2.6,3,High,Muy Baja
+GD0105,21,Femenino,4.8,Battle Royale,Warzone,Celular,6.6,Insuficiente,1.08,Excited,Rarely,False,False,False,False,False,6.1,10.9,1,Low,Buena
+GD0108,19,Femenino,6.8,Battle Royale,PUBG,Multi-platforma,3.7,Bajo,2.96,Angry,Rarely,True,False,False,True,True,6.4,4.7,9,Moderate,Muy Baja
+GD0109,19,Masculino,4.6,Battle Royale,Fortnite,Consola,5.3,Insuficiente,2.21,Irritable,Daily,False,False,False,False,False,6.8,11.3,8,Low,Baja
+GD0114,20,Femenino,9.2,Juegos De Celular,Genshin Impact,Multi-platforma,5.8,Bajo,2.98,Withdrawn,Daily,True,False,False,True,True,7.0,3.6,5,High,Intermedia
+GD0116,22,Femenino,8.4,MMO,World of Warcraft,Celular,4.2,Bajo,2.57,Irritable,Never,False,True,True,True,False,5.6,3.4,8,High,Baja
+GD0120,19,Masculino,4.8,Juegos De Celular,Clash of Clans,Consola,6.3,Bajo,2.86,Normal,Often,False,False,False,True,False,6.9,9.9,1,Low,Intermedia
+GD0125,20,Femenino,10.0,MMO,Final Fantasy XIV,Consola,5.5,Insuficiente,2.19,Withdrawn,Sometimes,True,False,True,False,False,3.6,2.0,5,Severe,Intermedia
+GD0126,19,Masculino,5.0,Juegos De Celular,Clash of Clans,Multi-platforma,6.7,Insuficiente,1.11,Normal,Sometimes,False,False,False,True,False,8.9,11.8,9,Low,Buena
+GD0127,22,Masculino,5.6,Battle Royale,Warzone,Consola,5.1,Insuficiente,1.69,Anxious,Daily,False,False,False,False,False,8.3,5.7,1,Low,Baja
+GD0128,19,Femenino,4.3,MMO,World of Warcraft,Consola,6.7,Medio,3.31,Normal,Never,False,False,False,False,False,9.6,13.0,6,Low,Buena
+GD0131,20,Femenino,6.9,RPG,Cyberpunk 2077,Multi-platforma,4.9,Medio,3.11,Anxious,Daily,False,False,False,True,True,6.9,6.5,10,Low,Baja
+GD0137,19,Masculino,8.0,RPG,Cyberpunk 2077,Consola,3.4,Insuficiente,2.1,Restless,Often,True,True,True,True,False,4.1,6.4,9,Severe,Muy Baja
+GD0138,19,Masculino,9.3,Juegos De Celular,Clash of Clans,Multi-platforma,4.8,Medio,3.59,Euphoric,Sometimes,True,False,True,True,True,4.0,5.7,2,Severe,Baja
+GD0139,20,Masculino,10.2,RPG,Elden Ring,Celular,5.1,Medio,3.47,Irritable,Daily,False,False,False,False,True,3.0,4.5,6,Moderate,Baja
+GD0142,21,Masculino,8.2,Juegos De Celular,Clash of Clans,Multi-platforma,3.7,Insuficiente,1.78,Angry,Often,True,False,False,True,True,4.0,5.5,1,Moderate,Muy Baja
+GD0143,22,Masculino,4.4,FPS,CS:GO,Celular,5.2,Insuficiente,1.85,Restless,Never,False,False,False,False,False,9.3,8.0,5,Low,Baja
+GD0144,20,Masculino,5.8,MOBA,League of Legends,Multi-platforma,6.0,Insuficiente,1.08,Normal,Daily,False,True,False,False,True,6.0,6.6,10,Moderate,Intermedia
+GD0145,21,Masculino,9.7,Battle Royale,PUBG,Celular,4.5,Medio,3.37,Euphoric,Sometimes,True,False,False,False,False,3.7,2.5,7,High,Baja
+GD0150,19,Masculino,10.4,Estrategia,StarCraft II,Celular,5.1,Insuficiente,1.76,Withdrawn,Sometimes,True,True,False,False,True,5.6,5.9,5,Severe,Baja
+GD0151,19,Masculino,5.3,MOBA,League of Legends,Multi-platforma,6.4,Insuficiente,1.43,Irritable,Never,False,False,False,True,False,7.9,9.6,1,Low,Intermedia
+GD0156,20,Masculino,6.9,Battle Royale,Fortnite,Consola,4.7,Medio,3.29,Restless,Sometimes,True,False,False,False,False,8.0,6.4,10,Moderate,Baja
+GD0158,22,Masculino,9.0,MOBA,Mobile Legends,Consola,5.3,Insuficiente,1.11,Depressed,Never,True,False,False,False,True,7.2,1.6,12,High,Baja
+GD0161,19,Masculino,12.2,MOBA,Dota 2,Celular,5.9,Medio,3.72,Depressed,Sometimes,True,True,False,False,True,4.7,0.5,5,Severe,Intermedia
+GD0163,22,Femenino,6.3,MOBA,Mobile Legends,Consola,5.5,Medio,3.98,Restless,Never,False,False,False,True,True,9.0,9.7,7,Low,Intermedia
+GD0165,21,Femenino,8.4,RPG,Elden Ring,Consola,5.7,Medio,3.14,Anxious,Rarely,True,True,False,True,False,4.8,6.3,2,High,Intermedia
+GD0167,21,Masculino,5.1,RPG,Skyrim,Multi-platforma,5.8,Bajo,2.72,Irritable,Never,False,False,False,False,False,7.3,11.3,5,Low,Intermedia
+GD0169,21,Masculino,7.6,FPS,Overwatch,Celular,5.6,Insuficiente,1.5,Euphoric,Rarely,True,False,True,True,True,4.7,4.6,6,High,Intermedia
+GD0171,21,Masculino,1.3,Battle Royale,Warzone,PC,8.4,Insuficiente,1.44,Normal,Often,False,False,False,False,False,9.6,12.6,8,Low,Muy buena
+GD0173,21,Masculino,9.1,RPG,Elden Ring,PC,3.2,Bajo,2.92,Irritable,Rarely,True,True,False,True,True,4.9,3.8,1,Severe,Muy Baja
+GD0174,22,Masculino,10.1,MOBA,Dota 2,Multi-platforma,3.4,Insuficiente,1.1,Angry,Sometimes,True,True,False,True,False,4.2,2.0,3,Severe,Muy Baja
+GD0176,19,Femenino,2.9,Estrategia,Civilization VI,Multi-platforma,8.0,Medio,3.29,Angry,Rarely,False,False,False,False,False,8.8,9.7,9,Low,Muy buena
+GD0177,19,Masculino,4.6,Estrategia,StarCraft II,PC,5.9,Insuficiente,2.1,Normal,Never,False,False,False,False,False,8.5,9.0,1,Low,Intermedia
+GD0178,21,Masculino,5.7,MMO,Final Fantasy XIV,Multi-platforma,5.7,Medio,3.84,Angry,Never,False,True,False,False,True,7.3,9.4,8,Moderate,Intermedia
+GD0179,22,Femenino,8.2,MOBA,League of Legends,Multi-platforma,4.2,Insuficiente,2.27,Withdrawn,Rarely,False,True,False,True,True,4.2,7.8,5,Moderate,Baja
+GD0180,19,Femenino,3.1,MOBA,League of Legends,Celular,7.2,Medio,3.51,Euphoric,Sometimes,False,False,False,False,False,9.1,9.7,1,Low,Buena
+GD0181,22,Femenino,7.3,Estrategia,Age of Empires,Celular,3.0,Insuficiente,2.15,Angry,Sometimes,True,False,False,True,True,7.9,8.8,12,Moderate,Muy Baja
+GD0184,19,Masculino,11.0,Juegos De Celular,PUBG Mobile,PC,3.7,Medio,3.52,Irritable,Never,True,False,False,False,False,6.3,0.4,8,High,Muy Baja
+GD0186,19,Femenino,7.0,Estrategia,Age of Empires,Multi-platforma,4.1,Insuficiente,1.42,Restless,Sometimes,True,False,False,True,False,8.4,5.4,8,Moderate,Baja
+GD0189,21,Masculino,4.4,FPS,Call of Duty,Multi-platforma,6.6,Medio,3.23,Angry,Rarely,False,False,False,False,False,9.0,8.8,8,Low,Buena
+GD0192,20,Masculino,3.9,MMO,Elder Scrolls Online,Consola,6.3,Medio,3.5,Angry,Often,False,False,False,False,False,7.9,9.0,2,Low,Intermedia
+GD0195,21,Femenino,3.7,Battle Royale,Apex Legends,Multi-platforma,5.8,Bajo,2.84,Angry,Never,False,False,False,False,False,8.0,7.4,10,Low,Intermedia
+GD0196,19,Masculino,5.2,MOBA,Mobile Legends,Multi-platforma,6.5,Insuficiente,1.85,Angry,Daily,False,False,False,True,False,8.8,6.2,2,Low,Buena
+GD0197,20,Masculino,6.6,FPS,Overwatch,Celular,5.1,Insuficiente,1.77,Irritable,Never,True,True,False,True,True,7.4,5.5,5,High,Baja
+GD0200,21,Femenino,6.0,MOBA,Mobile Legends,Celular,6.7,Insuficiente,2.41,Irritable,Often,False,False,False,False,False,6.1,10.3,3,Low,Buena
+GD0203,21,Masculino,12.0,Juegos De Celular,Genshin Impact,Celular,3.8,Insuficiente,1.31,Depressed,Rarely,False,False,False,True,True,2.8,1.1,2,Moderate,Muy Baja
+GD0204,22,Masculino,5.4,MMO,World of Warcraft,Celular,5.5,Insuficiente,1.07,Excited,Rarely,False,False,False,False,False,6.4,10.9,3,Low,Intermedia
+GD0205,19,Femenino,4.0,Estrategia,StarCraft II,PC,6.9,Insuficiente,1.85,Angry,Daily,False,False,False,False,False,6.6,8.2,4,Low,Buena
+GD0207,21,Masculino,2.7,MMO,Elder Scrolls Online,PC,8.2,Medio,3.69,Angry,Sometimes,False,False,False,False,False,6.8,12.0,11,Low,Muy buena
+GD0208,20,Masculino,7.2,Estrategia,Civilization VI,Celular,4.3,Bajo,2.58,Irritable,Sometimes,True,True,False,False,True,8.0,3.6,1,High,Baja
+GD0211,21,Masculino,5.1,MOBA,Dota 2,PC,6.7,Insuficiente,1.28,Irritable,Never,False,False,False,True,False,9.2,7.2,7,Low,Buena
+GD0212,21,Masculino,8.8,MMO,Elder Scrolls Online,Multi-platforma,5.6,Medio,3.2,Angry,Never,False,True,True,True,True,5.9,5.7,4,Severe,Intermedia
+GD0213,19,Masculino,5.2,Estrategia,StarCraft II,Celular,6.3,Medio,3.7,Restless,Often,False,False,False,True,False,7.9,8.5,1,Low,Intermedia
+GD0214,20,Masculino,6.2,Juegos De Celular,PUBG Mobile,Consola,5.3,Insuficiente,2.19,Angry,Never,False,False,False,True,True,6.7,10.6,1,Low,Baja
+GD0215,19,Femenino,4.3,MMO,Final Fantasy XIV,Celular,5.3,Medio,3.09,Normal,Sometimes,False,False,False,False,False,6.3,8.1,5,Low,Baja
+GD0216,19,Masculino,9.3,Juegos De Celular,Genshin Impact,Multi-platforma,5.2,Bajo,2.92,Restless,Rarely,False,False,True,True,True,5.9,2.7,2,High,Baja
+GD0217,20,Masculino,11.3,Estrategia,StarCraft II,Celular,5.9,Bajo,2.86,Anxious,Rarely,True,False,False,True,True,2.6,3.7,3,High,Intermedia
+GD0218,22,Masculino,11.0,FPS,Overwatch,Celular,4.3,Medio,3.23,Anxious,Often,True,False,True,False,True,3.5,0.0,9,Severe,Baja
+GD0221,20,Masculino,3.2,MOBA,Dota 2,Multi-platforma,7.2,Medio,3.65,Euphoric,Often,False,False,False,False,False,9.4,12.2,2,Low,Buena
+GD0224,20,Femenino,2.7,Battle Royale,Warzone,PC,7.1,Medio,3.38,Normal,Often,False,False,False,False,False,6.6,13.9,7,Low,Buena
+GD0226,20,Femenino,0.5,Estrategia,Age of Empires,Celular,8.7,Medio,3.88,Irritable,Daily,False,False,False,False,False,10.4,15.0,10,Low,Muy buena
+GD0227,19,Masculino,7.1,MMO,Final Fantasy XIV,Consola,4.3,Insuficiente,2.45,Euphoric,Often,False,True,False,False,True,8.5,3.7,5,Moderate,Baja
+GD0228,19,Femenino,7.8,MOBA,League of Legends,Celular,4.2,Bajo,2.89,Depressed,Often,False,False,False,False,False,4.7,8.3,6,Low,Baja
+GD0229,20,Femenino,3.5,MOBA,Mobile Legends,Consola,5.0,Medio,3.22,Restless,Often,False,False,False,False,False,10.0,8.5,10,Low,Baja
+GD0230,19,Masculino,8.7,Battle Royale,Fortnite,Consola,3.3,Medio,3.47,Normal,Rarely,True,False,False,False,False,6.4,3.2,6,High,Muy Baja
+GD0231,19,Masculino,8.2,Battle Royale,PUBG,Multi-platforma,5.9,Insuficiente,2.47,Depressed,Sometimes,True,False,True,False,True,5.4,4.0,6,High,Intermedia
+GD0232,19,Femenino,8.7,RPG,Cyberpunk 2077,PC,4.2,Insuficiente,1.97,Anxious,Daily,False,True,False,False,False,4.8,7.2,4,High,Baja
+GD0236,21,Masculino,5.5,MMO,Final Fantasy XIV,PC,5.3,Insuficiente,2.35,Restless,Often,False,True,False,False,False,8.7,5.3,11,Moderate,Baja
+GD0239,20,Femenino,5.7,RPG,Elden Ring,Celular,5.5,Insuficiente,2.25,Euphoric,Daily,False,True,False,False,True,8.7,8.5,2,Moderate,Intermedia
+GD0240,22,Femenino,10.9,FPS,Call of Duty,PC,5.2,Medio,3.74,Irritable,Never,True,True,False,True,True,5.2,0.0,7,Severe,Baja
+GD0243,20,Masculino,6.6,MMO,Elder Scrolls Online,Consola,3.8,Medio,3.02,Angry,Sometimes,True,True,False,True,True,8.1,7.5,9,High,Muy Baja
+GD0244,19,Femenino,9.3,FPS,CS:GO,Multi-platforma,3.0,Medio,3.51,Irritable,Daily,True,False,False,True,False,6.1,4.6,3,High,Muy Baja
+GD0247,20,Femenino,8.9,Estrategia,Civilization VI,Celular,4.3,Medio,3.28,Angry,Rarely,True,False,True,True,True,6.9,4.7,2,Severe,Baja
+GD0248,20,Masculino,8.2,FPS,CS:GO,Consola,3.2,Insuficiente,2.33,Anxious,Rarely,False,False,True,False,True,5.8,5.2,2,Moderate,Muy Baja
+GD0252,20,Masculino,8.2,MOBA,Dota 2,PC,5.0,Insuficiente,2.21,Restless,Sometimes,True,False,True,False,True,6.6,6.4,4,High,Baja
+GD0255,19,Masculino,5.5,RPG,Cyberpunk 2077,Celular,6.1,Insuficiente,1.05,Irritable,Daily,False,True,False,False,False,7.7,9.7,7,Moderate,Intermedia
+GD0257,20,Masculino,7.9,FPS,Overwatch,Consola,4.7,Insuficiente,1.94,Withdrawn,Never,True,True,False,False,True,5.6,8.0,6,High,Baja
+GD0261,19,Masculino,10.6,MOBA,League of Legends,Consola,5.5,Medio,3.07,Anxious,Often,True,True,False,False,False,2.5,0.3,1,Severe,Intermedia
+GD0264,20,Masculino,10.3,MMO,Elder Scrolls Online,Celular,3.2,Insuficiente,1.53,Euphoric,Sometimes,False,True,False,False,True,4.3,4.2,7,High,Muy Baja
+GD0268,20,Femenino,7.5,Juegos De Celular,Candy Crush,Multi-platforma,4.3,Insuficiente,1.41,Withdrawn,Daily,True,True,False,True,False,7.5,3.6,7,High,Baja
+GD0270,20,Femenino,2.8,FPS,Valorant,Consola,8.0,Insuficiente,1.18,Excited,Daily,False,False,False,False,False,6.5,10.0,9,Low,Muy buena
+GD0277,22,Femenino,5.1,RPG,Skyrim,Consola,6.7,Bajo,2.54,Angry,Often,False,False,False,True,False,5.7,9.8,1,Low,Buena
+GD0278,19,Femenino,1.9,RPG,Cyberpunk 2077,Celular,7.4,Insuficiente,1.14,Angry,Never,False,False,False,False,False,7.4,15.3,2,Low,Buena
+GD0285,19,Masculino,8.0,MOBA,League of Legends,Celular,5.4,Insuficiente,1.09,Withdrawn,Often,True,False,False,True,True,7.1,2.9,8,Moderate,Baja
+GD0286,22,Masculino,3.8,Battle Royale,Warzone,Consola,5.4,Insuficiente,1.69,Depressed,Often,False,False,False,False,False,10.0,9.4,8,Low,Baja
+GD0287,20,Masculino,2.2,MMO,Elder Scrolls Online,Celular,8.1,Insuficiente,1.15,Excited,Rarely,False,False,False,False,False,8.8,12.5,8,Low,Muy buena
+GD0289,21,Masculino,3.7,FPS,CS:GO,PC,6.9,Bajo,2.74,Euphoric,Often,False,False,False,False,False,6.1,7.5,3,Low,Buena
+GD0290,21,Femenino,1.9,FPS,Valorant,Multi-platforma,8.7,Medio,3.9,Withdrawn,Never,False,False,False,False,False,9.7,14.5,7,Low,Muy buena
+GD0292,19,Masculino,4.1,Battle Royale,PUBG,Multi-platforma,5.3,Insuficiente,2.36,Irritable,Never,False,False,False,False,False,8.1,11.5,3,Low,Baja
+GD0293,20,Masculino,3.9,MOBA,League of Legends,Celular,6.7,Medio,3.88,Irritable,Often,False,False,False,False,False,7.0,12.1,2,Low,Buena
+GD0295,20,Masculino,8.4,MMO,World of Warcraft,Celular,4.3,Insuficiente,2.0,Angry,Rarely,True,True,False,True,True,4.1,3.0,1,High,Baja
+GD0296,19,Femenino,5.4,MOBA,Mobile Legends,Consola,6.4,Bajo,2.94,Irritable,Never,False,False,False,True,False,6.7,11.1,7,Low,Intermedia
+GD0298,21,Masculino,8.6,MOBA,Dota 2,PC,3.2,Medio,3.75,Restless,Daily,True,True,True,True,False,6.5,4.7,6,Severe,Muy Baja
+GD0299,20,Masculino,7.6,Battle Royale,Apex Legends,Celular,5.2,Insuficiente,1.45,Depressed,Rarely,True,False,True,True,False,5.7,3.7,7,High,Baja
+GD0301,22,Femenino,3.8,RPG,Cyberpunk 2077,Multi-platforma,5.4,Insuficiente,1.25,Irritable,Often,False,False,False,False,False,6.4,12.9,8,Low,Baja
+GD0304,20,Femenino,7.0,Estrategia,StarCraft II,Consola,3.7,Insuficiente,1.73,Anxious,Never,True,True,False,True,False,6.2,4.9,8,High,Muy Baja
+GD0305,19,Masculino,6.1,RPG,Elden Ring,Consola,6.6,Insuficiente,1.15,Euphoric,Never,False,True,False,True,False,8.9,5.9,4,Moderate,Buena
+GD0306,22,Masculino,6.0,Battle Royale,Warzone,PC,7.0,Medio,3.24,Anxious,Never,False,False,False,True,True,7.0,7.0,10,Low,Buena
+GD0307,19,Masculino,7.8,MMO,World of Warcraft,Multi-platforma,3.5,Medio,3.5,Withdrawn,Rarely,True,False,True,False,False,5.5,7.5,1,High,Muy Baja
+GD0308,19,Masculino,8.2,RPG,Cyberpunk 2077,Celular,4.4,Medio,3.66,Irritable,Never,True,True,True,True,True,5.1,7.8,6,Severe,Baja
+GD0311,19,Femenino,4.8,MMO,World of Warcraft,PC,6.5,Insuficiente,2.02,Euphoric,Never,False,False,False,True,False,7.9,7.0,5,Low,Buena
+GD0312,19,Masculino,7.1,MOBA,Dota 2,PC,3.3,Medio,3.78,Irritable,Rarely,True,False,False,True,False,5.7,6.6,6,Moderate,Muy Baja
+GD0313,19,Femenino,2.3,MMO,Final Fantasy XIV,Celular,8.3,Insuficiente,1.48,Irritable,Sometimes,False,False,False,False,False,9.7,11.5,9,Low,Muy buena
+GD0315,19,Masculino,6.2,Estrategia,Age of Empires,Celular,6.4,Insuficiente,1.77,Anxious,Rarely,False,False,False,False,True,8.4,9.4,3,Low,Intermedia
+GD0318,21,Masculino,5.3,Juegos De Celular,Clash of Clans,Multi-platforma,6.2,Insuficiente,2.24,Restless,Daily,False,False,False,True,False,7.9,8.2,11,Low,Intermedia
+GD0322,20,Femenino,5.2,FPS,Valorant,Multi-platforma,5.3,Bajo,2.76,Normal,Sometimes,False,False,False,False,False,7.2,6.5,2,Low,Baja
+GD0325,20,Masculino,10.3,MMO,Final Fantasy XIV,Celular,5.0,Insuficiente,1.12,Anxious,Rarely,True,True,False,False,True,4.2,4.5,7,Severe,Baja
+GD0326,20,Masculino,9.8,RPG,Elden Ring,PC,3.6,Medio,3.74,Irritable,Rarely,True,True,False,False,False,3.6,2.9,7,Severe,Muy Baja
+GD0329,20,Femenino,5.5,FPS,Call of Duty,Multi-platforma,6.3,Medio,3.78,Normal,Often,False,False,False,True,False,7.3,6.0,1,Low,Intermedia
+GD0332,20,Femenino,4.4,Juegos De Celular,PUBG Mobile,Celular,6.2,Insuficiente,1.76,Angry,Often,False,False,False,False,False,6.2,8.6,6,Low,Intermedia
+GD0339,19,Masculino,2.6,RPG,Skyrim,Consola,8.7,Bajo,2.62,Euphoric,Rarely,False,False,False,False,False,6.6,9.1,5,Low,Muy buena
+GD0344,19,Masculino,5.3,FPS,Call of Duty,Multi-platforma,6.1,Insuficiente,1.18,Restless,Never,False,False,False,True,False,6.3,6.0,6,Low,Intermedia
+GD0350,20,Masculino,5.8,Estrategia,Age of Empires,PC,6.8,Medio,3.2,Anxious,Daily,False,True,False,True,False,7.2,10.7,9,Moderate,Buena
+GD0353,19,Masculino,2.1,FPS,Overwatch,Celular,7.8,Insuficiente,2.47,Angry,Sometimes,False,False,False,False,False,8.8,10.0,1,Low,Buena
+GD0354,20,Femenino,6.3,MMO,Final Fantasy XIV,Consola,6.6,Medio,3.3,Euphoric,Rarely,False,True,False,True,False,8.5,7.6,5,Moderate,Buena
+GD0356,19,Femenino,5.0,Battle Royale,PUBG,PC,5.4,Bajo,2.59,Irritable,Often,False,False,False,True,False,8.4,8.7,4,Low,Baja
+GD0357,19,Masculino,5.5,MOBA,Dota 2,Celular,5.2,Medio,3.78,Irritable,Sometimes,False,True,False,True,True,7.4,6.2,4,Moderate,Baja
+GD0358,21,Masculino,1.7,RPG,Cyberpunk 2077,PC,7.9,Insuficiente,1.28,Depressed,Sometimes,False,False,False,False,False,9.3,10.9,1,Low,Buena
+GD0361,19,Masculino,6.6,MOBA,Dota 2,PC,5.8,Medio,3.91,Depressed,Rarely,True,False,False,True,True,8.3,5.3,7,Moderate,Intermedia
+GD0362,22,Masculino,6.6,MOBA,League of Legends,Celular,3.9,Insuficiente,1.74,Irritable,Rarely,True,False,False,True,True,7.6,6.2,10,Moderate,Muy Baja
+GD0364,20,Masculino,5.8,Battle Royale,Warzone,Consola,6.1,Medio,3.99,Restless,Often,False,False,False,True,True,8.2,7.4,5,Low,Intermedia
+GD0367,22,Femenino,3.9,FPS,CS:GO,Celular,6.7,Insuficiente,2.05,Anxious,Sometimes,False,False,False,False,False,7.6,7.5,1,Low,Buena
+GD0369,19,Masculino,4.7,RPG,Skyrim,PC,6.3,Bajo,2.5,Restless,Sometimes,False,False,False,True,False,8.1,8.7,5,Low,Intermedia
+GD0370,21,Femenino,8.4,Battle Royale,PUBG,Celular,4.8,Medio,3.34,Depressed,Often,True,False,False,True,False,7.5,6.3,2,Moderate,Baja
+GD0371,20,Femenino,2.1,Estrategia,StarCraft II,PC,8.5,Insuficiente,1.85,Excited,Daily,False,False,False,False,False,9.3,13.0,2,Low,Muy buena
+GD0373,21,Masculino,10.9,MOBA,Mobile Legends,Multi-platforma,4.2,Medio,3.19,Normal,Sometimes,True,False,True,True,True,5.2,1.6,1,Severe,Baja
+GD0374,21,Femenino,6.8,Battle Royale,Fortnite,Consola,3.6,Insuficiente,1.49,Euphoric,Rarely,True,True,False,True,False,4.7,5.7,1,High,Muy Baja
+GD0377,22,Masculino,6.4,Juegos De Celular,Genshin Impact,Consola,6.5,Medio,3.49,Restless,Rarely,False,True,False,False,True,7.2,5.3,2,Moderate,Buena
+GD0379,19,Femenino,5.9,RPG,Skyrim,Celular,6.3,Medio,3.28,Normal,Daily,False,False,False,False,True,8.8,10.2,4,Low,Intermedia
+GD0384,21,Femenino,6.1,Juegos De Celular,PUBG Mobile,PC,5.6,Insuficiente,2.35,Normal,Daily,False,True,False,False,True,8.2,10.7,6,Moderate,Intermedia
+GD0386,19,Femenino,6.6,Juegos De Celular,Clash of Clans,Consola,4.0,Medio,3.2,Normal,Daily,True,True,False,False,True,8.1,7.8,7,High,Baja
+GD0387,19,Femenino,6.8,Battle Royale,Apex Legends,Celular,5.0,Insuficiente,1.87,Angry,Rarely,True,True,False,False,True,5.2,7.6,3,High,Baja
+GD0389,19,Femenino,5.2,MOBA,Dota 2,Consola,5.1,Insuficiente,1.45,Normal,Sometimes,False,False,False,True,False,6.9,10.8,9,Low,Baja
+GD0390,22,Femenino,3.8,FPS,CS:GO,Consola,6.0,Medio,3.83,Angry,Rarely,False,False,False,False,False,6.7,10.6,8,Low,Intermedia
+GD0393,19,Masculino,9.3,FPS,Overwatch,Multi-platforma,3.0,Insuficiente,1.42,Depressed,Sometimes,False,False,False,True,True,7.2,2.4,8,Moderate,Muy Baja
+GD0394,19,Femenino,5.9,Battle Royale,PUBG,Multi-platforma,6.4,Insuficiente,2.47,Restless,Often,False,True,False,True,False,5.3,6.5,7,Moderate,Intermedia
+GD0396,19,Masculino,5.8,Juegos De Celular,Genshin Impact,Celular,5.7,Bajo,2.61,Anxious,Sometimes,False,True,False,True,True,6.5,5.0,5,Moderate,Intermedia
+GD0398,21,Masculino,12.6,Estrategia,StarCraft II,Celular,5.7,Medio,3.67,Anxious,Rarely,True,False,False,True,True,4.1,0.0,10,High,Intermedia
+GD0401,20,Masculino,7.7,MOBA,League of Legends,Celular,4.7,Insuficiente,2.46,Restless,Often,False,True,True,True,False,4.9,3.0,2,High,Baja
+GD0402,21,Femenino,1.2,MOBA,Dota 2,Celular,7.2,Medio,3.52,Normal,Rarely,False,False,False,False,False,11.2,15.2,10,Low,Buena
+GD0403,19,Masculino,4.6,Estrategia,Civilization VI,Consola,5.9,Insuficiente,2.32,Euphoric,Never,False,False,False,True,False,6.3,7.6,6,Low,Intermedia
+GD0406,20,Masculino,13.3,MMO,Final Fantasy XIV,Consola,5.0,Insuficiente,1.11,Irritable,Daily,True,False,False,True,True,3.8,0.6,4,High,Baja
+GD0411,22,Femenino,6.0,RPG,Cyberpunk 2077,Consola,6.4,Bajo,2.99,Normal,Sometimes,False,True,False,True,False,6.1,5.5,8,Moderate,Intermedia
+GD0414,19,Femenino,4.6,FPS,CS:GO,PC,6.5,Insuficiente,2.46,Anxious,Often,False,False,False,True,False,8.5,9.5,5,Low,Buena
+GD0421,19,Masculino,1.3,Estrategia,Age of Empires,PC,8.2,Bajo,2.8,Withdrawn,Often,False,False,False,False,False,9.4,15.9,5,Low,Muy buena
+GD0423,21,Otro,5.2,MMO,World of Warcraft,Celular,6.9,Insuficiente,1.46,Restless,Never,False,False,False,True,False,7.0,8.7,2,Low,Buena
+GD0425,20,Masculino,7.3,MMO,Elder Scrolls Online,Multi-platforma,3.1,Medio,3.71,Irritable,Daily,False,True,False,True,False,5.5,4.9,2,Moderate,Muy Baja
+GD0428,22,Masculino,2.5,MOBA,League of Legends,PC,7.4,Insuficiente,1.17,Euphoric,Often,False,False,False,False,False,10.4,12.8,12,Low,Buena
+GD0431,22,Masculino,5.0,Juegos De Celular,Genshin Impact,Consola,5.8,Medio,3.16,Restless,Rarely,False,False,False,False,False,6.0,9.0,5,Low,Intermedia
+GD0432,20,Femenino,3.9,Juegos De Celular,Candy Crush,Consola,5.3,Medio,3.17,Depressed,Often,False,False,False,False,False,7.4,10.8,7,Low,Baja
+GD0433,20,Masculino,4.5,FPS,CS:GO,PC,5.8,Medio,3.73,Normal,Daily,False,False,False,True,False,7.2,6.3,6,Low,Intermedia
+GD0436,20,Masculino,5.3,FPS,Overwatch,Celular,6.9,Medio,3.49,Normal,Sometimes,False,False,False,True,False,5.6,9.6,7,Low,Buena
+GD0438,22,Masculino,3.7,Battle Royale,PUBG,PC,5.3,Insuficiente,2.31,Anxious,Sometimes,False,False,False,False,False,7.1,12.2,2,Low,Baja
+GD0448,19,Femenino,2.1,MMO,Elder Scrolls Online,PC,8.9,Insuficiente,1.32,Normal,Rarely,False,False,False,False,False,7.6,14.5,5,Low,Muy buena
+GD0449,21,Masculino,9.1,Estrategia,Age of Empires,Multi-platforma,5.3,Insuficiente,1.88,Anxious,Daily,False,True,True,True,True,3.8,7.1,11,Severe,Baja
+GD0450,20,Femenino,4.1,MOBA,Mobile Legends,PC,6.9,Bajo,2.52,Euphoric,Often,False,False,False,False,False,8.5,7.8,2,Low,Buena
+GD0452,21,Masculino,5.0,Estrategia,Age of Empires,PC,6.6,Insuficiente,1.65,Depressed,Never,False,False,False,False,False,8.8,6.8,1,Low,Buena
+GD0454,20,Femenino,6.2,Juegos De Celular,Clash of Clans,Consola,5.3,Insuficiente,1.95,Euphoric,Sometimes,False,True,False,True,True,8.4,7.8,3,Moderate,Baja
+GD0457,20,Masculino,4.1,Estrategia,Age of Empires,Multi-platforma,5.3,Insuficiente,1.04,Angry,Daily,False,False,False,False,False,7.2,9.1,3,Low,Baja
+GD0460,21,Masculino,7.7,RPG,Elden Ring,PC,3.3,Insuficiente,2.28,Anxious,Often,True,True,False,True,True,4.4,3.3,8,High,Muy Baja
+GD0462,21,Masculino,5.5,MMO,Final Fantasy XIV,Consola,5.5,Insuficiente,1.07,Restless,Sometimes,False,True,False,True,False,6.7,7.8,2,Moderate,Intermedia
+GD0463,21,Femenino,6.0,MMO,World of Warcraft,Celular,5.3,Insuficiente,1.82,Angry,Never,False,True,False,True,False,7.3,5.0,7,Moderate,Baja
+GD0474,20,Masculino,9.3,MOBA,Dota 2,Multi-platforma,5.3,Insuficiente,1.8,Restless,Often,True,True,True,True,False,5.9,1.9,1,Severe,Baja
+GD0476,21,Femenino,4.8,MOBA,Dota 2,Multi-platforma,5.1,Insuficiente,1.4,Euphoric,Daily,False,False,False,True,False,9.0,8.2,4,Low,Baja
+GD0478,19,Masculino,4.0,MMO,World of Warcraft,Celular,6.7,Bajo,2.89,Anxious,Daily,False,False,False,False,False,7.0,10.5,7,Low,Buena
+GD0481,22,Femenino,9.9,RPG,Skyrim,Celular,3.7,Insuficiente,1.67,Irritable,Sometimes,True,False,True,True,True,4.6,5.9,6,Severe,Muy Baja
+GD0483,22,Masculino,1.8,RPG,Cyberpunk 2077,Multi-platforma,7.5,Medio,3.3,Normal,Often,False,False,False,False,False,9.4,15.0,7,Low,Buena
+GD0484,22,Masculino,8.1,FPS,Call of Duty,Multi-platforma,5.5,Medio,3.18,Angry,Never,False,True,False,True,True,4.8,5.8,10,Moderate,Intermedia
+GD0486,21,Masculino,11.6,MMO,Final Fantasy XIV,Celular,5.4,Bajo,2.57,Anxious,Never,True,False,False,False,False,3.8,0.0,3,High,Baja
+GD0491,20,Femenino,5.7,Battle Royale,Fortnite,Celular,5.5,Insuficiente,1.53,Angry,Rarely,False,False,False,False,True,5.4,4.9,8,Low,Intermedia
+GD0493,19,Femenino,5.8,MOBA,League of Legends,PC,6.8,Insuficiente,2.43,Euphoric,Daily,False,True,False,False,False,6.9,10.4,2,Moderate,Buena
+GD0494,20,Masculino,6.0,FPS,CS:GO,Consola,6.5,Medio,3.43,Angry,Rarely,False,True,False,True,False,6.4,10.7,10,Moderate,Buena
+GD0495,20,Femenino,3.8,Battle Royale,PUBG,Consola,6.0,Medio,3.16,Irritable,Often,False,False,False,False,False,9.2,8.7,1,Low,Intermedia
+GD0498,22,Masculino,9.5,Battle Royale,Fortnite,PC,3.7,Insuficiente,1.14,Angry,Rarely,False,True,False,True,True,5.7,3.3,4,High,Muy Baja
+GD0499,20,Masculino,5.9,Battle Royale,PUBG,Multi-platforma,6.7,Insuficiente,2.14,Restless,Often,False,False,False,False,True,5.4,10.7,6,Low,Buena
+GD0500,20,Femenino,7.1,Battle Royale,Fortnite,Consola,4.7,Insuficiente,1.02,Irritable,Sometimes,True,True,False,True,True,5.5,5.0,3,High,Baja
+GD0503,19,Masculino,7.5,RPG,Skyrim,PC,3.3,Insuficiente,1.78,Depressed,Daily,False,False,False,False,False,8.0,7.3,5,Low,Muy Baja
+GD0507,21,Masculino,5.5,FPS,Valorant,Multi-platforma,6.3,Medio,3.86,Irritable,Often,False,False,False,True,False,9.1,6.0,11,Low,Intermedia
+GD0510,19,Masculino,5.7,Battle Royale,Warzone,PC,6.4,Insuficiente,2.06,Euphoric,Daily,False,True,False,True,True,6.6,10.0,6,Moderate,Intermedia
+GD0511,22,Masculino,1.0,Estrategia,Age of Empires,Consola,8.0,Medio,3.87,Anxious,Daily,False,False,False,False,False,11.3,14.9,6,Low,Muy buena
+GD0512,19,Femenino,6.7,Juegos De Celular,PUBG Mobile,Consola,3.1,Bajo,2.79,Euphoric,Never,False,False,False,False,True,8.2,5.0,5,Low,Muy Baja
+GD0517,20,Masculino,12.2,Battle Royale,Apex Legends,Consola,5.3,Medio,3.3,Irritable,Daily,True,False,False,True,True,4.1,0.5,8,High,Baja
+GD0518,20,Masculino,5.4,MMO,Final Fantasy XIV,Celular,5.9,Insuficiente,1.63,Anxious,Never,False,False,False,True,False,6.9,9.9,9,Low,Intermedia
+GD0520,21,Masculino,3.1,Juegos De Celular,Clash of Clans,Consola,8.7,Medio,3.87,Normal,Daily,False,False,False,False,False,7.0,11.2,8,Low,Muy buena
+GD0522,20,Masculino,6.6,MMO,Final Fantasy XIV,Consola,4.9,Bajo,2.86,Normal,Rarely,True,True,False,True,False,6.8,6.9,6,High,Baja
+GD0523,21,Femenino,9.1,MOBA,League of Legends,Celular,4.7,Medio,3.33,Anxious,Often,False,False,True,False,True,4.3,4.1,7,High,Baja
+GD0525,19,Masculino,7.3,Estrategia,Civilization VI,Consola,3.2,Medio,3.31,Anxious,Daily,True,True,False,True,True,5.3,7.1,4,High,Muy Baja
+GD0528,21,Masculino,1.3,FPS,Overwatch,Multi-platforma,8.5,Medio,3.92,Excited,Never,False,False,False,False,False,9.2,12.2,11,Low,Muy buena
+GD0530,20,Femenino,10.1,MOBA,Dota 2,Celular,5.7,Insuficiente,2.09,Depressed,Often,True,True,True,True,True,3.6,5.2,6,Severe,Intermedia
+GD0531,20,Femenino,5.8,Juegos De Celular,Genshin Impact,Consola,6.3,Insuficiente,1.63,Euphoric,Daily,False,False,False,False,False,8.8,7.8,7,Low,Intermedia
+GD0534,19,Masculino,10.2,MOBA,League of Legends,PC,3.3,Medio,3.44,Euphoric,Daily,True,False,False,False,False,6.9,3.0,1,High,Muy Baja
+GD0540,19,Masculino,4.3,MMO,Elder Scrolls Online,PC,6.3,Insuficiente,2.46,Restless,Sometimes,False,False,False,False,False,9.2,11.9,4,Low,Intermedia
+GD0544,22,Femenino,6.7,Juegos De Celular,Candy Crush,PC,4.6,Insuficiente,1.18,Angry,Sometimes,True,True,False,True,True,6.5,6.5,4,High,Baja
+GD0546,19,Masculino,6.2,MMO,World of Warcraft,Celular,6.7,Medio,3.56,Depressed,Rarely,False,True,False,True,False,5.9,7.4,6,Moderate,Buena
+GD0547,22,Masculino,3.2,MMO,World of Warcraft,Multi-platforma,8.7,Medio,3.82,Withdrawn,Sometimes,False,False,False,False,False,8.4,8.7,3,Low,Muy buena
+GD0550,21,Femenino,7.2,Battle Royale,Fortnite,PC,5.9,Insuficiente,1.41,Irritable,Sometimes,True,False,False,True,True,6.2,5.0,9,Moderate,Intermedia
+GD0551,19,Masculino,9.5,Estrategia,Age of Empires,Multi-platforma,3.2,Insuficiente,1.94,Irritable,Daily,True,True,True,True,False,4.6,2.4,6,Severe,Muy Baja
+GD0552,19,Masculino,6.0,Juegos De Celular,PUBG Mobile,Consola,5.3,Insuficiente,1.42,Restless,Daily,False,False,False,False,False,5.4,10.2,6,Low,Baja
+GD0553,19,Femenino,2.3,MOBA,Mobile Legends,Consola,8.9,Medio,3.61,Normal,Never,False,False,False,False,False,9.8,14.5,5,Low,Muy buena
+GD0555,19,Femenino,4.6,RPG,Cyberpunk 2077,Consola,6.1,Medio,3.24,Angry,Rarely,False,False,False,True,False,7.3,11.3,5,Low,Intermedia
+GD0556,19,Masculino,4.8,Estrategia,Age of Empires,Consola,7.0,Bajo,2.78,Euphoric,Daily,False,False,False,True,False,8.1,8.6,6,Low,Buena
+GD0557,20,Masculino,11.7,Juegos De Celular,PUBG Mobile,Consola,5.5,Bajo,2.69,Euphoric,Daily,True,True,True,True,False,5.4,0.2,3,Severe,Intermedia
+GD0560,19,Masculino,4.6,MOBA,Mobile Legends,Multi-platforma,5.4,Insuficiente,1.85,Restless,Never,False,False,False,False,False,5.5,11.2,7,Low,Baja
+GD0562,20,Femenino,1.7,Juegos De Celular,Clash of Clans,Consola,8.7,Medio,3.88,Normal,Daily,False,False,False,False,False,7.6,10.4,3,Low,Muy buena
+GD0564,22,Masculino,4.5,MMO,Final Fantasy XIV,Celular,6.9,Insuficiente,1.54,Euphoric,Sometimes,False,False,False,True,False,7.1,11.8,8,Low,Buena
+GD0568,20,Masculino,8.0,MOBA,Dota 2,Multi-platforma,5.8,Bajo,2.75,Euphoric,Often,True,True,True,False,True,4.7,6.2,3,Severe,Intermedia
+GD0573,20,Masculino,5.3,Estrategia,Civilization VI,Multi-platforma,5.5,Insuficiente,2.34,Irritable,Sometimes,False,False,False,True,False,8.5,8.7,5,Low,Intermedia
+GD0576,21,Masculino,6.5,RPG,Skyrim,Celular,5.7,Insuficiente,1.76,Anxious,Sometimes,True,True,False,True,True,6.2,5.4,4,High,Intermedia
+GD0577,19,Femenino,1.3,RPG,Skyrim,Consola,9.0,Medio,3.45,Excited,Sometimes,False,False,False,False,False,11.3,11.5,5,Low,Muy buena
+GD0579,21,Femenino,2.7,Juegos De Celular,Clash of Clans,Consola,8.2,Medio,3.63,Normal,Often,False,False,False,False,False,10.0,13.2,3,Low,Muy buena
+GD0580,21,Masculino,5.9,Estrategia,StarCraft II,Consola,5.1,Bajo,2.78,Normal,Never,False,False,False,True,True,5.7,6.4,8,Low,Baja
+GD0585,21,Masculino,8.3,MMO,Elder Scrolls Online,PC,3.8,Insuficiente,1.36,Angry,Never,True,True,True,False,False,7.9,4.9,7,Severe,Muy Baja
+GD0587,19,Femenino,8.4,RPG,Skyrim,PC,3.8,Insuficiente,1.69,Restless,Often,False,True,False,True,True,5.4,2.6,9,Moderate,Muy Baja
+GD0590,22,Masculino,1.7,MMO,Elder Scrolls Online,Celular,7.1,Insuficiente,1.77,Normal,Rarely,False,False,False,False,False,7.6,11.1,11,Low,Buena
+GD0592,20,Masculino,5.8,RPG,Elden Ring,Multi-platforma,5.4,Insuficiente,1.5,Euphoric,Sometimes,False,False,False,True,False,5.1,8.3,4,Low,Baja
+GD0594,21,Masculino,8.6,Estrategia,StarCraft II,PC,5.0,Bajo,2.71,Anxious,Daily,True,False,True,True,True,6.0,1.6,1,Severe,Baja
+GD0595,21,Femenino,6.5,MMO,World of Warcraft,Multi-platforma,6.9,Insuficiente,1.4,Irritable,Often,False,True,False,True,True,5.9,9.9,2,Moderate,Buena
+GD0597,22,Masculino,6.0,Juegos De Celular,Candy Crush,PC,7.0,Medio,3.21,Depressed,Daily,False,True,False,True,False,8.3,8.0,3,Moderate,Buena
+GD0599,19,Masculino,7.5,RPG,Cyberpunk 2077,Consola,3.2,Insuficiente,1.89,Depressed,Rarely,True,True,True,True,True,6.9,6.0,4,Severe,Muy Baja
+GD0600,21,Femenino,5.8,Battle Royale,Fortnite,Celular,5.3,Medio,3.36,Euphoric,Never,False,False,False,False,True,6.9,7.4,7,Low,Baja
+GD0601,20,Masculino,1.1,RPG,Elden Ring,PC,8.4,Bajo,2.65,Normal,Rarely,False,False,False,False,False,9.4,15.4,7,Low,Muy buena
+GD0604,21,Masculino,4.8,Juegos De Celular,Candy Crush,PC,6.9,Insuficiente,2.28,Euphoric,Daily,False,False,False,True,False,6.4,6.4,10,Low,Buena
+GD0605,19,Masculino,7.4,MOBA,League of Legends,Celular,5.8,Medio,3.54,Restless,Rarely,True,False,False,True,True,7.1,6.6,6,Moderate,Intermedia
+GD0606,22,Femenino,11.4,Battle Royale,Warzone,Multi-platforma,4.3,Insuficiente,1.95,Restless,Daily,True,True,False,False,True,4.5,3.7,11,Severe,Baja
+GD0611,20,Masculino,6.4,FPS,Call of Duty,Consola,5.4,Insuficiente,1.28,Normal,Never,False,False,False,True,True,5.9,7.2,6,Low,Baja
+GD0612,20,Masculino,5.4,MMO,Final Fantasy XIV,Celular,6.0,Bajo,2.81,Normal,Sometimes,False,False,False,True,False,6.7,10.2,4,Low,Intermedia
+GD0613,19,Masculino,2.6,Battle Royale,PUBG,Celular,8.6,Insuficiente,2.48,Anxious,Daily,False,False,False,False,False,8.2,11.2,7,Low,Muy buena
+GD0619,21,Masculino,6.4,Juegos De Celular,PUBG Mobile,Multi-platforma,5.6,Insuficiente,2.43,Restless,Often,False,True,False,True,True,7.6,8.9,4,Moderate,Intermedia
+GD0624,19,Masculino,7.7,MOBA,Dota 2,Multi-platforma,3.5,Insuficiente,1.1,Irritable,Often,False,True,False,True,False,7.8,6.0,6,Moderate,Muy Baja
+GD0625,20,Masculino,4.8,MOBA,Dota 2,Celular,5.5,Bajo,2.5,Depressed,Sometimes,False,False,False,True,False,8.8,6.8,2,Low,Intermedia
+GD0627,22,Femenino,4.8,Estrategia,Age of Empires,Multi-platforma,6.0,Insuficiente,1.74,Irritable,Often,False,False,False,True,False,7.5,7.9,12,Low,Intermedia
+GD0629,21,Femenino,3.6,FPS,Overwatch,Celular,5.4,Medio,3.09,Withdrawn,Never,False,False,False,False,False,6.1,8.0,11,Low,Baja
+GD0636,19,Masculino,9.6,RPG,Elden Ring,Consola,3.6,Bajo,2.57,Restless,Sometimes,False,True,False,False,True,7.0,0.5,8,High,Muy Baja
+GD0637,19,Masculino,11.1,MMO,Elder Scrolls Online,Multi-platforma,5.9,Insuficiente,1.58,Angry,Sometimes,False,True,False,False,True,3.8,0.8,8,High,Intermedia
+GD0639,20,Masculino,6.0,Battle Royale,PUBG,Consola,5.5,Medio,3.88,Restless,Never,False,True,False,True,True,6.0,10.7,4,Moderate,Intermedia
+GD0642,22,Masculino,6.9,Juegos De Celular,Genshin Impact,Celular,6.0,Medio,3.05,Euphoric,Sometimes,True,False,False,True,True,7.7,5.0,11,Moderate,Intermedia
+GD0643,22,Masculino,2.5,FPS,Valorant,Celular,8.1,Medio,3.54,Normal,Never,False,False,False,False,False,8.7,10.5,3,Low,Muy buena
+GD0646,19,Masculino,4.8,Estrategia,Age of Empires,Multi-platforma,5.9,Insuficiente,1.51,Normal,Rarely,False,False,False,True,False,5.5,8.2,7,Low,Intermedia
+GD0650,22,Masculino,5.6,MMO,World of Warcraft,Celular,6.3,Medio,3.42,Anxious,Often,False,True,False,True,False,5.9,10.2,4,Moderate,Intermedia
+GD0652,21,Masculino,7.0,MOBA,League of Legends,Celular,4.8,Medio,3.57,Angry,Rarely,False,True,False,True,True,8.2,5.1,3,Moderate,Baja
+GD0653,19,Masculino,1.7,RPG,Cyberpunk 2077,Consola,8.7,Insuficiente,2.23,Depressed,Often,False,False,False,False,False,10.4,9.8,2,Low,Muy buena
+GD0654,22,Femenino,6.4,Battle Royale,Warzone,Multi-platforma,5.4,Medio,3.24,Irritable,Never,False,True,False,True,False,6.1,9.5,1,Moderate,Baja
+GD0655,20,Femenino,3.3,Juegos De Celular,PUBG Mobile,Celular,8.3,Bajo,2.74,Normal,Daily,False,False,False,False,False,9.1,10.7,6,Low,Muy buena
+GD0657,20,Femenino,6.3,MMO,Final Fantasy XIV,Celular,6.2,Bajo,2.54,Normal,Rarely,False,False,False,False,True,8.5,9.5,6,Low,Intermedia
+GD0660,20,Femenino,5.3,MMO,World of Warcraft,Consola,6.8,Medio,3.93,Irritable,Daily,False,False,False,True,False,9.0,7.1,8,Low,Buena
+GD0662,22,Femenino,1.8,Estrategia,Age of Empires,Multi-platforma,8.0,Medio,3.17,Restless,Often,False,False,False,False,False,8.9,14.2,6,Low,Muy buena
+GD0663,20,Masculino,4.4,RPG,Elden Ring,Multi-platforma,6.3,Insuficiente,1.51,Euphoric,Daily,False,False,False,False,False,7.6,8.7,9,Low,Intermedia
+GD0667,19,Masculino,6.7,Battle Royale,Apex Legends,Celular,3.8,Medio,3.61,Withdrawn,Daily,True,True,False,True,False,6.6,7.5,8,High,Muy Baja
+GD0672,19,Masculino,4.0,RPG,Skyrim,Consola,6.9,Medio,3.33,Irritable,Daily,False,False,False,False,False,9.1,11.4,9,Low,Buena
+GD0681,19,Masculino,8.2,FPS,Valorant,Celular,4.0,Insuficiente,1.1,Euphoric,Often,False,False,True,False,True,5.2,4.5,1,Moderate,Baja
+GD0684,20,Femenino,2.0,MOBA,Dota 2,Celular,7.9,Medio,3.82,Normal,Rarely,False,False,False,False,False,10.4,12.2,10,Low,Buena
+GD0687,22,Masculino,3.5,FPS,CS:GO,Consola,8.9,Insuficiente,2.17,Normal,Daily,False,False,False,False,False,8.1,8.6,3,Low,Muy buena
+GD0688,19,Femenino,12.3,FPS,Valorant,PC,3.5,Bajo,2.55,Restless,Never,True,True,False,False,True,4.4,1.6,9,Severe,Muy Baja
+GD0693,19,Masculino,12.5,FPS,CS:GO,Multi-platforma,5.7,Insuficiente,1.55,Irritable,Daily,False,False,False,True,True,2.4,0.0,6,Moderate,Intermedia
+GD0694,22,Otro,4.4,Battle Royale,Warzone,Consola,6.6,Insuficiente,1.66,Angry,Daily,False,False,False,False,False,6.4,10.2,4,Low,Buena
+GD0702,19,Femenino,8.5,MOBA,Dota 2,Celular,3.3,Insuficiente,1.77,Depressed,Never,True,True,False,True,True,4.7,3.8,6,Severe,Muy Baja
+GD0705,20,Masculino,8.3,MOBA,Mobile Legends,Multi-platforma,5.9,Insuficiente,1.09,Depressed,Often,False,False,False,False,False,4.0,3.6,2,Low,Intermedia
+GD0709,19,Masculino,3.9,Battle Royale,Warzone,Celular,5.3,Insuficiente,1.56,Depressed,Daily,False,False,False,False,False,7.9,9.5,5,Low,Baja
+GD0711,21,Masculino,10.4,MOBA,Dota 2,Multi-platforma,5.7,Insuficiente,2.21,Depressed,Never,True,True,False,True,True,3.9,5.8,4,Severe,Intermedia
+GD0713,19,Masculino,10.0,RPG,Elden Ring,Multi-platforma,5.4,Medio,3.7,Anxious,Daily,False,False,True,True,False,5.8,3.9,6,High,Baja
+GD0714,20,Masculino,11.1,FPS,Valorant,Celular,5.6,Insuficiente,1.98,Restless,Sometimes,True,True,True,False,True,5.8,2.0,4,Severe,Intermedia
+GD0715,19,Masculino,6.7,Juegos De Celular,Candy Crush,Consola,4.9,Medio,3.55,Anxious,Rarely,True,False,False,True,True,6.4,8.2,5,Moderate,Baja
+GD0719,21,Masculino,11.7,FPS,Overwatch,Celular,6.0,Medio,3.05,Depressed,Often,False,True,False,True,True,5.1,0.0,1,High,Intermedia
+GD0722,21,Masculino,4.8,MOBA,Dota 2,Multi-platforma,7.0,Insuficiente,2.42,Angry,Never,False,False,False,True,False,6.0,7.7,10,Low,Buena
+GD0725,19,Masculino,7.8,MOBA,Mobile Legends,Celular,4.1,Insuficiente,1.74,Anxious,Daily,True,True,True,False,True,7.2,7.1,2,Severe,Baja
+GD0729,21,Masculino,8.4,FPS,Valorant,Multi-platforma,5.1,Insuficiente,2.38,Anxious,Rarely,True,True,True,False,True,5.8,2.8,8,Severe,Baja
+GD0730,22,Masculino,10.3,Estrategia,Age of Empires,PC,5.8,Bajo,2.9,Irritable,Rarely,True,True,False,True,True,4.1,2.9,11,Severe,Intermedia
+GD0733,19,Femenino,4.3,Battle Royale,Fortnite,Consola,5.5,Insuficiente,1.96,Depressed,Sometimes,False,False,False,False,False,8.2,8.1,4,Low,Intermedia
+GD0742,22,Masculino,13.5,FPS,Overwatch,Celular,4.3,Insuficiente,1.93,Restless,Often,False,True,False,True,False,2.0,0.0,8,High,Baja
+GD0744,20,Masculino,1.2,MOBA,Dota 2,Multi-platforma,8.2,Insuficiente,1.86,Restless,Rarely,False,False,False,False,False,9.7,15.1,1,Low,Muy buena
+GD0746,22,Femenino,4.6,MOBA,League of Legends,Consola,6.0,Insuficiente,1.71,Euphoric,Sometimes,False,False,False,True,False,7.5,9.0,11,Low,Intermedia
+GD0749,19,Masculino,4.8,Juegos De Celular,Genshin Impact,PC,6.8,Medio,3.46,Euphoric,Rarely,False,False,False,True,False,8.4,11.1,4,Low,Buena
+GD0752,21,Masculino,11.9,Estrategia,StarCraft II,Consola,4.2,Medio,3.34,Anxious,Never,True,True,True,True,True,4.1,2.6,10,Severe,Baja
+GD0753,21,Masculino,4.1,RPG,Elden Ring,PC,5.2,Bajo,2.63,Euphoric,Often,False,False,False,False,False,8.7,11.2,2,Low,Baja
+GD0754,19,Femenino,0.8,FPS,Call of Duty,PC,7.4,Insuficiente,1.43,Normal,Sometimes,False,False,False,False,False,8.8,11.8,3,Low,Buena
+GD0763,22,Masculino,5.5,FPS,Valorant,Consola,6.0,Insuficiente,1.06,Normal,Never,False,False,False,True,False,8.8,9.6,10,Low,Intermedia
+GD0766,19,Femenino,8.3,Battle Royale,Apex Legends,Consola,5.5,Insuficiente,1.44,Restless,Sometimes,True,True,True,False,True,4.4,8.2,4,Severe,Intermedia
+GD0767,19,Masculino,9.5,MMO,Elder Scrolls Online,Multi-platforma,4.6,Medio,3.65,Normal,Daily,True,False,False,False,True,3.7,6.9,7,High,Baja
+GD0768,20,Femenino,10.0,Battle Royale,PUBG,Multi-platforma,5.3,Bajo,2.71,Irritable,Never,True,False,False,False,True,6.9,2.0,4,High,Baja
+GD0770,21,Masculino,8.6,MOBA,League of Legends,Multi-platforma,4.0,Bajo,2.67,Anxious,Rarely,True,True,False,True,True,6.9,1.7,2,Severe,Baja
+GD0773,19,Masculino,2.2,FPS,Valorant,Consola,8.9,Insuficiente,1.03,Excited,Daily,False,False,False,False,False,9.0,14.0,3,Low,Muy buena
+GD0774,20,Femenino,4.2,RPG,Elden Ring,Consola,6.1,Bajo,2.77,Normal,Sometimes,False,False,False,False,False,7.8,10.9,1,Low,Intermedia
+GD0776,21,Otro,7.9,Estrategia,StarCraft II,PC,5.1,Insuficiente,1.63,Anxious,Sometimes,False,True,False,False,False,5.8,6.3,9,Moderate,Baja
+GD0777,21,Femenino,10.7,Juegos De Celular,PUBG Mobile,Consola,3.7,Insuficiente,1.13,Depressed,Sometimes,True,False,False,True,True,5.7,0.7,2,High,Muy Baja
+GD0781,21,Femenino,6.3,FPS,Valorant,PC,6.1,Insuficiente,1.67,Normal,Rarely,False,True,False,True,True,5.1,9.6,11,Moderate,Intermedia
+GD0785,20,Masculino,3.0,Battle Royale,Fortnite,Celular,8.1,Medio,3.26,Excited,Rarely,False,False,False,False,False,9.7,8.9,1,Low,Muy buena
+GD0788,22,Masculino,5.7,RPG,Elden Ring,PC,6.8,Medio,3.89,Depressed,Often,False,False,False,False,False,6.1,6.5,9,Low,Buena
+GD0789,19,Masculino,7.0,Estrategia,Civilization VI,Consola,3.8,Medio,3.08,Euphoric,Never,True,True,False,False,True,7.0,9.2,8,High,Muy Baja
+GD0791,20,Masculino,7.0,Estrategia,Civilization VI,PC,3.6,Insuficiente,1.4,Angry,Often,False,True,False,True,True,7.6,7.2,3,Moderate,Muy Baja
+GD0796,20,Femenino,3.9,Estrategia,StarCraft II,PC,6.0,Insuficiente,1.16,Normal,Rarely,False,False,False,False,False,8.9,8.6,6,Low,Intermedia
+GD0798,20,Masculino,2.9,MMO,Elder Scrolls Online,Celular,7.7,Insuficiente,2.13,Euphoric,Never,False,False,False,False,False,8.7,8.9,8,Low,Buena
+GD0799,22,Femenino,6.7,RPG,Cyberpunk 2077,Multi-platforma,4.0,Medio,3.55,Anxious,Daily,True,False,False,True,True,4.6,8.1,11,Moderate,Baja
+GD0802,19,Masculino,5.3,RPG,Cyberpunk 2077,PC,5.5,Insuficiente,2.26,Angry,Rarely,False,False,False,False,False,5.6,9.2,6,Low,Intermedia
+GD0806,22,Masculino,10.5,FPS,Overwatch,Consola,4.8,Insuficiente,1.41,Irritable,Often,True,True,True,True,False,4.9,0.1,11,Severe,Baja
+GD0807,22,Masculino,7.4,RPG,Cyberpunk 2077,PC,3.2,Bajo,2.8,Angry,Often,False,True,False,True,False,8.2,4.6,6,Moderate,Muy Baja
+GD0810,22,Masculino,4.9,Estrategia,StarCraft II,Celular,5.3,Medio,3.98,Angry,Often,False,False,False,True,False,8.9,8.9,6,Low,Baja
+GD0812,19,Masculino,1.7,RPG,Cyberpunk 2077,Multi-platforma,7.4,Insuficiente,2.27,Normal,Rarely,False,False,False,False,False,9.3,11.2,5,Low,Buena
+GD0818,19,Masculino,11.0,Juegos De Celular,Clash of Clans,Consola,5.3,Insuficiente,1.88,Euphoric,Often,False,False,False,True,False,4.7,0.0,1,Moderate,Baja
+GD0821,21,Masculino,2.2,Juegos De Celular,Candy Crush,Consola,7.7,Medio,3.16,Euphoric,Often,False,False,False,False,False,9.8,14.8,5,Low,Buena
+GD0823,22,Femenino,9.3,FPS,Call of Duty,Multi-platforma,5.4,Medio,3.56,Restless,Often,True,True,True,True,True,3.7,4.0,1,Severe,Baja
+GD0824,20,Masculino,5.6,MOBA,Mobile Legends,Multi-platforma,5.9,Medio,3.33,Anxious,Rarely,False,True,False,True,True,8.0,9.0,1,Moderate,Intermedia
+GD0825,20,Masculino,6.2,Battle Royale,Fortnite,PC,5.6,Insuficiente,2.19,Euphoric,Daily,False,True,False,True,True,8.5,10.0,6,Moderate,Intermedia
+GD0826,19,Femenino,7.1,MOBA,Mobile Legends,Celular,5.1,Insuficiente,1.38,Anxious,Daily,True,False,False,True,True,5.2,9.6,6,Moderate,Baja
+GD0830,21,Masculino,7.6,Juegos De Celular,PUBG Mobile,Consola,5.7,Medio,3.53,Anxious,Often,False,True,False,True,False,6.4,7.1,2,Moderate,Intermedia
+GD0831,22,Femenino,6.4,Battle Royale,Warzone,Multi-platforma,5.4,Insuficiente,2.18,Excited,Sometimes,False,True,False,True,False,7.3,10.3,5,Moderate,Baja
+GD0833,19,Femenino,4.2,Estrategia,Age of Empires,PC,5.3,Medio,3.38,Euphoric,Sometimes,False,False,False,False,False,7.5,8.3,5,Low,Baja
+GD0835,19,Masculino,5.1,MOBA,Mobile Legends,Consola,6.5,Insuficiente,2.29,Normal,Never,False,False,False,True,False,7.1,9.3,7,Low,Buena
+GD0836,20,Femenino,8.1,Battle Royale,Fortnite,Consola,5.7,Insuficiente,1.79,Euphoric,Never,True,True,True,False,True,7.8,7.9,7,Severe,Intermedia
+GD0837,19,Masculino,6.9,Juegos De Celular,Clash of Clans,PC,3.5,Insuficiente,2.07,Restless,Sometimes,True,True,False,True,False,5.2,7.6,7,High,Muy Baja
+GD0841,19,Femenino,5.3,MMO,World of Warcraft,Multi-platforma,5.7,Insuficiente,1.54,Restless,Never,False,False,False,True,False,5.7,6.6,2,Low,Intermedia
+GD0844,20,Masculino,0.7,FPS,CS:GO,Celular,7.0,Insuficiente,2.36,Euphoric,Rarely,False,False,False,False,False,8.3,14.2,2,Low,Buena
+GD0845,19,Masculino,10.9,Estrategia,StarCraft II,Consola,5.7,Insuficiente,2.39,Anxious,Never,True,False,True,True,True,4.6,0.0,8,Severe,Intermedia
+GD0846,21,Femenino,10.1,Estrategia,Civilization VI,PC,4.1,Medio,3.04,Anxious,Rarely,False,False,True,True,True,5.2,0.8,9,High,Baja
+GD0847,20,Femenino,5.7,MMO,Elder Scrolls Online,Celular,6.1,Medio,3.04,Depressed,Sometimes,False,False,False,True,True,5.0,6.2,4,Low,Intermedia
+GD0848,21,Masculino,7.0,MMO,World of Warcraft,Consola,5.9,Medio,3.46,Restless,Often,True,True,False,True,True,5.6,6.1,11,High,Intermedia
+GD0850,21,Femenino,6.1,Estrategia,Civilization VI,PC,6.4,Medio,3.62,Irritable,Often,False,True,False,False,True,5.1,9.4,11,Moderate,Intermedia
+GD0854,21,Otro,5.2,RPG,Cyberpunk 2077,Multi-platforma,5.9,Medio,3.62,Anxious,Daily,False,False,False,True,False,6.8,8.5,3,Low,Intermedia
+GD0858,20,Masculino,4.5,MMO,Final Fantasy XIV,Consola,6.6,Insuficiente,2.23,Restless,Often,False,False,False,True,False,6.2,10.6,1,Low,Buena
+GD0861,20,Masculino,8.1,Juegos De Celular,Clash of Clans,Consola,3.3,Medio,3.11,Euphoric,Sometimes,True,True,True,False,False,6.2,8.0,8,Severe,Muy Baja
+GD0863,19,Masculino,0.6,MOBA,Mobile Legends,Consola,7.8,Medio,3.18,Restless,Sometimes,False,False,False,False,False,8.9,13.2,3,Low,Buena
+GD0864,19,Masculino,6.6,MOBA,League of Legends,PC,6.0,Insuficiente,2.36,Normal,Rarely,True,False,False,True,False,6.7,6.9,4,Moderate,Intermedia
+GD0866,19,Masculino,14.7,Juegos De Celular,Genshin Impact,Multi-platforma,3.5,Insuficiente,2.28,Withdrawn,Often,False,True,False,True,True,1.3,0.0,1,High,Muy Baja
+GD0868,19,Femenino,4.3,Juegos De Celular,Candy Crush,Consola,6.3,Medio,3.87,Irritable,Daily,False,False,False,False,False,8.5,8.3,5,Low,Intermedia
+GD0876,20,Masculino,7.1,FPS,Overwatch,Celular,4.2,Bajo,2.85,Depressed,Daily,True,True,False,False,True,6.6,6.6,2,High,Baja
+GD0878,22,Femenino,4.9,RPG,Elden Ring,Multi-platforma,6.9,Insuficiente,1.42,Normal,Sometimes,False,False,False,True,False,9.0,11.6,1,Low,Buena
+GD0879,20,Femenino,5.0,Battle Royale,Fortnite,PC,5.9,Insuficiente,1.85,Anxious,Daily,False,False,False,True,False,8.2,9.3,6,Low,Intermedia
+GD0882,19,Masculino,4.9,MMO,World of Warcraft,PC,6.6,Insuficiente,1.5,Euphoric,Sometimes,False,False,False,True,False,7.2,8.8,3,Low,Buena
+GD0885,21,Masculino,2.6,MMO,Elder Scrolls Online,Multi-platforma,7.2,Insuficiente,2.22,Normal,Rarely,False,False,False,False,False,7.8,13.6,8,Low,Buena
+GD0887,19,Femenino,3.9,Juegos De Celular,Genshin Impact,PC,5.9,Medio,3.15,Depressed,Daily,False,False,False,False,False,6.3,9.4,1,Low,Intermedia
+GD0888,19,Masculino,6.4,MMO,World of Warcraft,Consola,5.6,Insuficiente,1.88,Depressed,Often,False,True,False,True,True,6.0,8.0,7,Moderate,Intermedia
+GD0890,20,Otro,7.4,Estrategia,Civilization VI,Consola,5.6,Bajo,2.55,Angry,Sometimes,True,True,False,True,True,6.8,5.2,9,High,Intermedia
+GD0894,21,Masculino,1.7,MMO,World of Warcraft,Celular,8.3,Insuficiente,1.44,Normal,Rarely,False,False,False,False,False,8.8,13.7,9,Low,Muy buena
+GD0895,20,Masculino,9.5,FPS,Call of Duty,PC,5.4,Bajo,2.79,Anxious,Daily,False,True,True,True,False,7.5,2.5,7,Severe,Baja
+GD0897,22,Otro,5.8,MOBA,Mobile Legends,Consola,6.5,Insuficiente,1.13,Withdrawn,Sometimes,False,True,False,True,False,7.7,9.7,3,Moderate,Buena
+GD0899,22,Masculino,4.3,Juegos De Celular,Candy Crush,Multi-platforma,5.2,Insuficiente,2.47,Normal,Daily,False,False,False,False,False,7.9,12.5,5,Low,Baja
+GD0901,21,Masculino,6.3,MMO,Final Fantasy XIV,PC,5.1,Insuficiente,2.01,Irritable,Sometimes,False,True,False,True,True,7.0,5.3,5,Moderate,Baja
+GD0905,21,Femenino,5.8,MOBA,League of Legends,Multi-platforma,6.2,Medio,3.39,Depressed,Often,False,True,False,True,True,5.8,6.2,10,Moderate,Intermedia
+GD0906,19,Masculino,1.9,FPS,Call of Duty,Multi-platforma,7.6,Insuficiente,1.69,Normal,Rarely,False,False,False,False,False,10.5,10.2,4,Low,Buena
+GD0908,20,Masculino,5.4,MMO,Elder Scrolls Online,PC,6.9,Insuficiente,2.08,Euphoric,Sometimes,False,False,False,True,False,8.6,8.9,7,Low,Buena
+GD0910,19,Masculino,8.8,MMO,Final Fantasy XIV,PC,3.5,Medio,3.73,Irritable,Sometimes,True,False,True,True,False,6.5,1.6,9,Severe,Muy Baja
+GD0911,20,Otro,3.9,RPG,Elden Ring,Multi-platforma,6.8,Medio,3.63,Irritable,Rarely,False,False,False,False,False,6.5,11.6,8,Low,Buena
+GD0912,21,Masculino,11.6,RPG,Cyberpunk 2077,Multi-platforma,3.7,Bajo,2.96,Angry,Sometimes,False,True,False,True,False,4.1,3.1,9,High,Muy Baja
+GD0914,19,Masculino,4.1,FPS,CS:GO,Celular,5.2,Medio,3.98,Anxious,Never,False,False,False,False,False,6.1,7.7,3,Low,Baja
+GD0916,19,Masculino,2.5,Battle Royale,Warzone,PC,7.4,Insuficiente,1.5,Excited,Daily,False,False,False,False,False,9.7,14.4,5,Low,Buena
+GD0917,22,Masculino,3.6,Battle Royale,Warzone,Multi-platforma,5.6,Insuficiente,1.76,Irritable,Never,False,False,False,False,False,8.3,11.6,1,Low,Intermedia
+GD0918,19,Femenino,8.9,Estrategia,StarCraft II,Consola,5.9,Insuficiente,2.44,Withdrawn,Rarely,True,True,False,True,False,5.6,2.6,7,Severe,Intermedia
+GD0919,20,Masculino,4.7,MOBA,Mobile Legends,PC,5.9,Medio,3.63,Anxious,Rarely,False,False,False,True,False,8.2,9.6,9,Low,Intermedia
+GD0920,22,Femenino,6.3,FPS,Call of Duty,PC,6.8,Insuficiente,2.05,Angry,Never,False,True,False,True,True,7.8,6.3,4,Moderate,Buena
+GD0921,20,Femenino,1.8,MOBA,League of Legends,Celular,8.8,Medio,3.8,Excited,Sometimes,False,False,False,False,False,7.8,10.2,9,Low,Muy buena
+GD0925,20,Masculino,11.2,Estrategia,StarCraft II,Celular,5.0,Insuficiente,1.12,Anxious,Often,True,True,False,True,True,5.7,2.3,9,Severe,Baja
+GD0927,20,Masculino,4.7,Estrategia,StarCraft II,Celular,5.7,Bajo,2.63,Normal,Often,False,False,False,True,False,7.3,7.7,9,Low,Intermedia
+GD0929,20,Masculino,5.6,MOBA,League of Legends,PC,5.4,Medio,3.24,Depressed,Rarely,False,False,False,True,True,8.4,5.0,1,Low,Baja
+GD0932,20,Otro,10.2,Estrategia,Civilization VI,Consola,4.8,Medio,3.81,Euphoric,Daily,True,True,False,False,False,3.9,5.7,8,Severe,Baja
+GD0935,20,Femenino,6.1,Battle Royale,Warzone,Consola,6.3,Medio,3.58,Anxious,Daily,False,True,False,True,True,8.4,7.8,2,Moderate,Intermedia
+GD0936,20,Masculino,9.8,Estrategia,Civilization VI,Consola,6.0,Insuficiente,2.02,Anxious,Rarely,True,False,True,True,True,5.2,2.0,6,Severe,Intermedia
+GD0938,22,Femenino,3.4,FPS,Overwatch,Celular,7.3,Bajo,2.91,Normal,Never,False,False,False,False,False,9.3,14.1,12,Low,Buena
+GD0939,22,Masculino,8.6,Battle Royale,Apex Legends,Celular,3.8,Insuficiente,1.31,Irritable,Daily,True,False,False,True,False,4.2,4.3,1,High,Muy Baja
+GD0944,19,Masculino,11.3,Battle Royale,Fortnite,PC,4.5,Insuficiente,2.06,Anxious,Sometimes,True,False,True,True,False,3.4,1.1,3,Severe,Baja
+GD0949,19,Masculino,7.7,Juegos De Celular,PUBG Mobile,Multi-platforma,3.9,Bajo,2.53,Irritable,Rarely,True,True,False,False,False,7.9,6.4,6,High,Muy Baja
+GD0950,19,Masculino,1.1,Juegos De Celular,Candy Crush,Celular,7.7,Insuficiente,1.78,Anxious,Often,False,False,False,False,False,7.6,12.4,2,Low,Buena
+GD0952,21,Masculino,8.3,FPS,Overwatch,Multi-platforma,3.7,Insuficiente,1.12,Irritable,Often,False,False,True,True,False,6.8,2.7,5,Moderate,Muy Baja
+GD0953,20,Masculino,2.8,FPS,Call of Duty,Consola,8.2,Insuficiente,1.64,Normal,Never,False,False,False,False,False,6.9,11.5,9,Low,Muy buena
+GD0954,22,Femenino,5.5,RPG,Cyberpunk 2077,Multi-platforma,5.0,Medio,3.13,Angry,Daily,False,False,False,True,False,9.3,11.8,10,Low,Baja
+GD0957,21,Masculino,5.9,MMO,Final Fantasy XIV,Celular,6.2,Insuficiente,2.35,Angry,Rarely,False,True,False,True,True,7.9,5.8,3,Moderate,Intermedia
+GD0958,20,Masculino,7.7,RPG,Elden Ring,Celular,5.2,Medio,3.71,Irritable,Never,True,False,True,True,False,6.2,7.7,5,High,Baja
+GD0962,20,Femenino,6.8,Juegos De Celular,Candy Crush,Celular,5.3,Bajo,2.55,Restless,Never,True,True,False,True,False,5.4,5.8,8,High,Baja
+GD0965,19,Masculino,9.3,Battle Royale,Warzone,Celular,5.1,Insuficiente,1.78,Restless,Never,False,True,True,False,True,3.9,5.4,8,Severe,Baja
+GD0967,19,Masculino,7.0,Estrategia,StarCraft II,Celular,4.0,Medio,3.3,Depressed,Daily,True,True,False,False,False,7.3,7.4,1,High,Baja
+GD0971,20,Femenino,6.3,Estrategia,Civilization VI,Multi-platforma,6.5,Insuficiente,1.24,Normal,Often,False,False,False,True,False,7.4,8.6,1,Low,Buena
+GD0975,20,Masculino,7.8,FPS,Call of Duty,Multi-platforma,4.8,Bajo,2.91,Depressed,Often,True,False,False,True,False,5.2,7.0,5,Moderate,Baja
+GD0978,21,Femenino,7.4,FPS,CS:GO,PC,5.5,Insuficiente,1.88,Anxious,Never,True,True,False,True,False,7.4,4.8,6,High,Intermedia
+GD0979,19,Masculino,8.4,FPS,CS:GO,PC,5.9,Insuficiente,2.33,Withdrawn,Never,True,False,True,True,False,5.3,3.8,9,High,Intermedia
+GD0980,22,Femenino,8.7,Juegos De Celular,PUBG Mobile,Consola,4.4,Insuficiente,2.48,Excited,Sometimes,True,True,False,True,True,6.9,2.4,12,Severe,Baja
+GD0982,22,Femenino,13.6,Estrategia,Civilization VI,Multi-platforma,5.8,Bajo,2.92,Irritable,Often,True,True,False,True,False,2.4,0.0,2,Severe,Intermedia
+GD0988,19,Masculino,4.7,MOBA,Dota 2,Consola,6.7,Insuficiente,2.02,Restless,Often,False,False,False,False,False,6.5,9.0,9,Low,Buena
+GD0989,20,Masculino,4.4,MMO,Final Fantasy XIV,PC,5.4,Insuficiente,2.26,Euphoric,Sometimes,False,False,False,False,False,9.7,12.1,7,Low,Baja
+GD0991,19,Femenino,7.0,FPS,Valorant,PC,3.2,Medio,3.0,Anxious,Daily,False,True,False,False,True,7.7,5.8,2,Moderate,Muy Baja
+GD0995,20,Femenino,9.3,Battle Royale,Apex Legends,Consola,5.8,Bajo,2.53,Angry,Never,False,True,True,False,False,4.4,6.1,10,Severe,Intermedia
