@@ -31,7 +31,9 @@ datos/
 ├── limpios/
 
 notebooks/
+
 dashboard/
+
 imagenes/
 ```
 
@@ -55,17 +57,11 @@ Durante el análisis se realizaron procesos como:
 
 ---
 
-# Visualizaciones Destacadas
+# Visualización Destacada
 
 ## Relación Entre Horas de Sueño y Juego
 
 ![Scatter Plot](Imagenes/scatter-sueno-vs-juego.png)
-
----
-
-## Distribución de Riesgo de Adicción
-
-![Riesgo Adicción](Imagenes/riesgo-adiccion-filtros.png)
 
 ---
 
