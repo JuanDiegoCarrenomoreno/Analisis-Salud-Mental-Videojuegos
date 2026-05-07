@@ -1,10 +1,10 @@
-# 🎮 Análisis de Salud Mental y Hábitos de Juego
+# Análisis de Salud Mental y Hábitos de Juego
 
 Proyecto de análisis de datos enfocado en la relación entre hábitos de juego, calidad del sueño y riesgo de adicción utilizando Python, Pandas y Power BI.
 
 ---
 
-# 📌 Objetivos del Proyecto
+# Objetivos del Proyecto
 
 - Limpiar y transformar datos relacionados con hábitos de juego.
 - Analizar patrones de sueño y rendimiento académico.
@@ -13,7 +13,7 @@ Proyecto de análisis de datos enfocado en la relación entre hábitos de juego,
 
 ---
 
-# 🛠️ Herramientas Utilizadas
+# Herramientas Utilizadas
 
 - Python
 - Pandas
@@ -22,7 +22,7 @@ Proyecto de análisis de datos enfocado en la relación entre hábitos de juego,
 
 ---
 
-# 📂 Estructura del Proyecto
+# Estructura del Proyecto
 
 ```plaintext
 datos/
@@ -37,7 +37,7 @@ imagenes/
 
 ---
 
-# 🧹 Proceso de Limpieza y Preparación
+# Proceso de Limpieza y Preparación
 
 Durante el análisis se realizaron procesos como:
 
@@ -49,13 +49,13 @@ Durante el análisis se realizaron procesos como:
 
 ---
 
-# 📊 Dashboard General
+# Dashboard General
 
 ![Dashboard General](Imagenes/dashboard-general.png)
 
 ---
 
-# 📈 Visualizaciones Destacadas
+# Visualizaciones Destacadas
 
 ## Relación Entre Horas de Sueño y Juego
 
@@ -69,7 +69,7 @@ Durante el análisis se realizaron procesos como:
 
 ---
 
-# 🔍 Insights Principales
+# Insights Principales
 
 - Los jugadores con mayores horas de juego tienden a presentar menos horas de sueño.
 - Los niveles altos de riesgo de adicción se relacionan con sesiones de juego más extensas.
@@ -78,7 +78,7 @@ Durante el análisis se realizaron procesos como:
 
 ---
 
-# 🚀 Cómo Ejecutar el Proyecto
+# Cómo Ejecutar el Proyecto
 
 ## Notebook
 
@@ -90,6 +90,6 @@ Abrir el archivo `.pbix` ubicado en la carpeta `dashboard` utilizando Power BI D
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 Juan Diego Carreño Moreno
